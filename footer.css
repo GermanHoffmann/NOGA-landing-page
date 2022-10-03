@@ -1,0 +1,207 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 424px;
+}
+.facebook,
+.vector-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 91.67%;
+  width: 54.17%;
+  top: 4.17%;
+  right: 20.83%;
+  bottom: 4.17%;
+  left: 25%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.facebook {
+  text-decoration: none;
+  top: 0;
+  left: 100px;
+  width: 24px;
+  height: 24px;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 91.67%;
+  width: 91.67%;
+  top: 4.17%;
+  right: 4.17%;
+  bottom: 4.17%;
+  left: 4.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 41.67%;
+  width: 41.67%;
+  top: 28.99%;
+  right: 28.99%;
+  bottom: 29.35%;
+  left: 29.35%;
+}
+.vector-icon3 {
+  height: 8.33%;
+  width: 8.38%;
+  top: 22.92%;
+  right: 22.87%;
+  bottom: 68.75%;
+  left: 68.75%;
+}
+.instagram {
+  text-decoration: none;
+  top: 1px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.instagram,
+.twitter-a,
+.vector-icon4 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon4 {
+  height: 83.1%;
+  width: 99.88%;
+  top: 8.29%;
+  right: 0.12%;
+  bottom: 8.61%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.twitter-a {
+  text-decoration: none;
+  top: 1px;
+  left: 50px;
+  width: 24px;
+  height: 24px;
+}
+.icon-social-media {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 124px;
+  height: 25px;
+}
+.redes-sociales-b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22.4px;
+  display: inline-block;
+}
+.social-media-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 118px;
+  height: 23px;
+}
+.social-media-div {
+  position: absolute;
+  top: 58px;
+  left: 793px;
+  width: 124px;
+  height: 67px;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  line-height: 32px;
+  display: inline-block;
+}
+.phone-icon {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.email,
+.phone-a {
+  text-decoration: none;
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 181px;
+  height: 32px;
+  color: inherit;
+}
+.email {
+  top: 43px;
+  width: 217px;
+}
+.contactactanos-h2 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  line-height: 22.4px;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--background-white1);
+  display: inline-block;
+}
+.get-in-touch {
+  position: absolute;
+  top: 58px;
+  left: 475px;
+  width: 217px;
+  height: 131px;
+  color: var(--grey-trolley);
+}
+.una-empresa-que-reune-a-las-pe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 25.2px;
+  display: inline-block;
+  width: 230px;
+}
+.logo-and-title,
+.section-1-h3 {
+  position: absolute;
+  width: 230px;
+  height: 101px;
+}
+.section-1-h3 {
+  margin: 0;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.logo-and-title {
+  top: 178px;
+  left: 82px;
+  text-align: center;
+  color: #e3e3e3;
+}
+.footer {
+  position: relative;
+  width: 100%;
+  height: 424px;
+  text-align: left;
+  font-size: var(--body-normal-regular-size);
+  color: var(--background-white1);
+  font-family: var(--body-large-regular);
+}

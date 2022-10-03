@@ -1,0 +1,42 @@
+:root {
+  /* fonts */
+  --body-large-regular: "Plus Jakarta Sans";
+  --font-sf-pro: "SF Pro";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --body-normal-regular-size: 16px;
+  --body-medium-regular-size: 18px;
+  --body-large-regular-size: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 48px;
+
+  /* Colors */
+  --background-white1: #fff;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #e4e5f2;
+  --color-gray-300: #dedede;
+  --text-disable: #ccc;
+  --grey-trolley: #828282;
+  --text-body: #808080;
+  --text-body-text: #666;
+  --grey-oak: #4f4f4f;
+  --text-title-text: #333;
+  --black-eerie-black: #1d1d1d;
+  --color-gray-1100: #171717;
+  --color-gray-1200: #121212;
+  --color-gray-1300: #0b0a0a;
+  --color-gold: #fdec57;
+  --color-black: #000;
+  --color-purple: #b44cae;
+
+  /* Paddings */
+  --padding-sm: 13.5px;
+  --padding-md: 16px;
+  --padding-lg: 48px;
+
+  /* border radiuses */
+  --br-sm: 8px;
+  --br-md: 10px;
+}
